@@ -26,7 +26,7 @@ const Navbar = () => {
         <Link to="/collector">Collector</Link>
         <Link to="/tester">Tester</Link>
         <Link to="/seller">Seller</Link>
-        <Link to="#">Contact Us</Link>
+        <Link to="/recycler">Recycler</Link>
       </div>
 
       <div className="nav-icons">
