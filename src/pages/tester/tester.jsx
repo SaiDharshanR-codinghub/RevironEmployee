@@ -6,6 +6,7 @@ const Tester = () => {
       <h2>Tester - Product Testing Form</h2>
       <form className="form-box">
         <input type="text" placeholder="Collector Name/ID" />
+        <input type="number" placeholder="SlotID" />
         <input type="text" placeholder="Product Name" />
         <textarea placeholder="Testing Report (working/non-working parts)"></textarea>
         <input type="text" placeholder="Non-working Parts List" />

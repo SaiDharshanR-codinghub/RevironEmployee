@@ -6,6 +6,7 @@ const Collector = () => {
       <h2>Update Collection</h2>
       <form className="form-box">
         <input type="text" placeholder="Collector Name/ID" />
+        <input type="number" placeholder="SlotID" />
         <input type="text" placeholder="Location" />
         <input type="text" placeholder="E-Waste Item" />
         <input type="number" placeholder="Quantity" />
